@@ -1,0 +1,9 @@
+Versión básica:
+data:text/html, <html contenteditable>
+
+
+
+Versión Avanzada:
+
+data:text/html;charset=utf-8, <title>Convert your Chrome Browser into a Text Editor!</title><body contenteditable style="font-size:2rem;font-family:tahoma;line-height:1.1;max-width:80rem;border: 1px black solid;margin:0 auto;padding:4rem;" spellcheck="false"><h3>Truzz Blogg | Convert your Chrome Browser into a Text Editor!</h3><p>Start Typing your code: </p>
+
